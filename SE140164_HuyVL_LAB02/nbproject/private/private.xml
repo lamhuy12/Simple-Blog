@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/hotel/HotelDAO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/hotelarea/HotelAreaDTO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/hotel/HotelDTO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/servlet/SearchHotelServlet.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/bookingdetail/BookingDetailDTO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/hotelarea/HotelAreaDAO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/servlet/FeedbackBookingServlet.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/servlet/RegisterServlet.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/feedback/FeedbackDAO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/servlet/RemoveFromCartServlet.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/room/RoomDAO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/bookingdetail/BookingDetailDAO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/roomtype/RoomTypeDAO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/servlet/BookingHistoryServlet.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/servlet/LoginServlet.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/booking/BookingDTO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/servlet/LogoutServlet.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/servlet/UpdateCartServlet.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/discount/DiscountDTO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/registration/AccountDAO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/servlet/AddToCartServlet.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/discount/DiscountDAO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/servlet/SearchHistoryServlet.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/web/home.jsp</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/web/viewCart.jsp</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/cart/CartObj.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/servlet/CancelBookingServlet.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/roomtype/RoomTypeDTO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/cart/Cart.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/room/RoomDTO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/servlet/LoadHotelServlet.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/servlet/VerifyBookingServlet.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/feedback/FeedbackDTO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/ultites/DBHelper.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/servlet/DispatchServlet.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/web/viewBooking.jsp</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/registration/AccountDTO.java</file>
+            <file>file:/D:/SE140164_HuyVL_LAB02/SE140164_HuyVL_LAB02/src/java/huyvl/servlet/CheckoutServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
